@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wang Ma"
-description              : "maw2020 {at} mail.sustech.edu.cn"
+description              : "maw2020 {at} mail.sustech.edu.cn or wma5 {at} uci.edu"
 repository               : "wma17/wma17.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wang Ma"
   avatar           : "images/me.jpg"
-  bio              : "Undergraduate@SUSTech"
+  bio              : "Undergraduate @SUSTech"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
