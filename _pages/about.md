@@ -127,14 +127,14 @@ I havev completed serval courses on Statistics, Machine Learning and Optimizatio
 * Texmacs (proficient), Typora (proficient), MS Office (proficient), Latex (skilled)
 
 **Language:**
-* Mandarin Chinese (Native), English (Fluent), Shaanxi Dialect Chinese (Native), Japanese (Elementary ~ N5)
+* Mandarin Chinese (Native), English (Fluent), Shaanxi Dialect Chinese (Native), Japanese (Elementary)
 <br/>
 
 
 
 # ⚾ More
-* Watching **baseball** games, especially the Japan High School Tournament, Koshien. I am a super fan of Ohmi High School, the baseball rising-star school from Shiga Prefecture in Japan, see the highlights of Ohmi High School [here](https://www.bilibili.com/video/BV1bF411a7B4/?spm_id_from=333.999.0.0&vd_source=39c9e2f0249c14d448a63ad2dec02137).
+* **baseball**. I enjoy watching NPB games and the Japan High School Tournament, Koshien. My favorite NPB team is Hokkaido Nippon Ham Fighters, where Shohei Otani started his professional life. I am also a super fan of Ohmi High School, the baseball rising-star school from Shiga Prefecture in Japan, see the highlights of Ohmi High School [here](https://www.bilibili.com/video/BV1bF411a7B4/?spm_id_from=333.999.0.0&vd_source=39c9e2f0249c14d448a63ad2dec02137), their blue uniforms shine brighter than the sky in August.
 
-* A **speedcuber** who participated in more than 20 official games with Square-1 being my best event. My ranking in Square-1 Event is No.2 in mainland China now (Nov. 2022), and I got 2 **Bronze Medals from the National Championship** in 2017, 2018. You can watch some recordings of my solves in my [Bilibili Channel](https://space.bilibili.com/237775327/video). To see all my results in official games, please take a look at my [WCA page](https://www.worldcubeassociation.org/persons/2016MAWA01).
+* I am a **speedcuber** who participated in more than 20 official games with Square-1 being my best event. My ranking in Square-1 Event is No.2 in mainland China now (Mar. 2023), and I got 2 **Bronze Medals from the National Championship** in 2017, 2018. You can watch some recordings of my solves in my [Bilibili Channel](https://space.bilibili.com/237775327/video). To see all my results in official games, please take a look at my [WCA page](https://www.worldcubeassociation.org/persons/2016MAWA01).
 
 * **Japan Anime**. My favorite short one is ***Spice and Wolf***, whose main actress is *Horo*, my favorite anime character! For long anime, I like ***One Piece*** best, which I began to watch since I was 8 years old, I watched the latest theatrical version *<font color=Red>RED</font>* on the first day it was released in mainland China.
