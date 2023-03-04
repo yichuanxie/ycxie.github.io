@@ -58,59 +58,59 @@ I havev completed serval courses on Statistics, Machine Learning and Optimizatio
   * Contents:
  
 ### Optimization
-* Algorithms for Convex Optimization (**Graduate-level**)
+* **Algorithms for Convex Optimization (*Graduate-level*)**
   * Lecturer: [Prof. Jin Zhang](https://www.sustech.edu.cn/en/faculties/zhangjin.html), associate profrssor, Department of Mathematics
   * Textbook: First-order Methods in Optimization
   * Contents:
    
-* Oprational Research and Optimization
+* **Oprational Research and Optimization**
   * Lecturer: [Prof. Chao Wang](https://sites.google.com/view/cwang), assitant professor, Department of Statistics and Data Science
   * Textbook: /
   * Contents: 
   
 ### Statistics
-* Statistical Linear Models
+* **Statistical Linear Models**
   * Lecturer: [Prof. Jian Qing Shi](https://www.sustech.edu.cn/en/faculties/shijianqing.html), professor,Department of Statistics and Data Science
   * Textbook:
   * Contents:
   
-* Mathematical Statistics
+* **Mathematical Statistics**
   * Lecturer: [Prof. Guoliang Tian], professor, Department of Statistics and Data Science
   * Textbook: Mathematical Statistics by Guoliang Tian
   * Contents:
    
-* Probability Theory 
+* **Probability Theory**
   * Lecturer: [Prof. Jingrui Sun](https://www.sustech.edu.cn/en/faculties/sunjingrui.html), assitant professor, Department of Mathematics
   * Textbook: /
   * Contents:
    
 ### Elementary Mathematics
-* Real Analysis
+* **Real Analysis**
   * Lecturer: [Prof. Zhan Li](https://www.sustech.edu.cn/en/faculties/lizhan.html), assitant professor, Department of Mathematics
   * Textbook:
   * Contents:
     
-* Numerical Analysis
+* **Numerical Analysis**
   * Lecturer: [Prof. Jiang Yang](https://www.sustech.edu.cn/en/faculties/yangjiang.html), assicate professor, Department of Mathematics
   * Textbook: 
   * Contents:
    
-* Advanced Linear Algebra
+* **Advanced Linear Algebra**
   * Lecturer: [Prof. Yimao Chen](https://www.sustech.edu.cn/en/faculties/chenyimao.html), assicate professor, Department of Mathematics
   * Textbook: Linear Algebra Done Right
   * Content:
     
-* Linear Algebra
+* **Linear Algebra**
   * Lecturer: [Prof. Wenlong Zhang](https://www.sustech.edu.cn/en/faculties/zhangwenlong.html), assitant professor, Department of Mathematics
   * Textbook: Linear Algebra and Its Applications by Gilbert
   * Content:
    
-* Discrete Mathematics
+* **Discrete Mathematics**
   * Lecturer: [Yunhao Fu](https://www.sustech.edu.cn/en/faculties/fuyunhao.html), lecturer, Department of Mathematics
   * Textbook:
   * Contents:
     
-* Mathematical Analysis I & II & III
+* **Mathematical Analysis I & II & III**
   * Lecturer: [Yunhao Fu](https://www.sustech.edu.cn/en/faculties/fuyunhao.html), lecturer, Department of Mathematics
   * Textbook:
   * Contents:
