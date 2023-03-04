@@ -39,9 +39,9 @@ I havev completed serval courses on Statistics, Machine Learning and Optimizatio
   - Student Representative of Teaching Improvement Committee of School of Science (*2022/11 ~ * )
   - Leader of the SUSTech Cube Association (*2021/08 ~ * )
 
-# My Courses
+# 📕 My Courses
 
-# Skills
+# 💻 Skills
 **Programming:**
 
 * Python (competent), Matlab (intermediate), Java (intermediate), Julia (beginner)
@@ -54,7 +54,7 @@ I havev completed serval courses on Statistics, Machine Learning and Optimizatio
 * Mandarin Chinese (Native), English (Fluent), Shaanxi Dialect Chinese (Native), Japanese (Elementary ~ N5)
 <br/>
 
-# More about Me
+# ⚾ More
 * Watching **baseball** games, especially the Japan High School Tournament, Koshien. I am a super fan of Ohmi High School, the baseball rising-star school from Shiga Prefecture in Japan, see the highlights of Ohmi High School [here](https://www.bilibili.com/video/BV1bF411a7B4/?spm_id_from=333.999.0.0&vd_source=39c9e2f0249c14d448a63ad2dec02137).
 
 * A **speedcuber** who participated in more than 20 official games with Square-1 being my best event. My ranking in Square-1 Event is No.2 in mainland China now (Nov. 2022), and I got 2 **Bronze Medals from the National Championship** in 2017, 2018. You can watch some recordings of my solves in my [Bilibili Channel](https://space.bilibili.com/237775327/video). To see all my results in official games, please take a look at my [WCA page](https://www.worldcubeassociation.org/persons/2016MAWA01).
