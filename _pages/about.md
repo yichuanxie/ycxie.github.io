@@ -46,18 +46,18 @@ I havev completed serval courses on Statistics, Machine Learning and Optimizatio
 
 # 📕 My Courses
 **This part indicates the courses I have taken so far, attached with the used textbooks and(or) short lists of the contents.**
-### Machine Learning
-* Statistical Learning
+### 1 Machine Learning
+* **Statistical Learning**
   * Lecturer: [Prof. Bingyi Jing](https://www.sustech.edu.cn/en/faculties/jingbing-yi.html), chair professor, Department of Statistics and Data Science
   * Textbook:
   * Contens:
   
-* Machine Learing and Its Medical Applications
+* **Machine Learing and Its Medical Applications**
   * Lecturer: [Prof. Quanying Liu](https://www.sustech.edu.cn/en/faculties/liuquanying.html), assitant professor, Department of Biomedical Engineering
   * Textbook: /
   * Contents:
  
-### Optimization
+### 2 Optimization
 * **Algorithms for Convex Optimization (*Graduate-level*)**
   * Lecturer: [Prof. Jin Zhang](https://www.sustech.edu.cn/en/faculties/zhangjin.html), associate profrssor, Department of Mathematics
   * Textbook: First-order Methods in Optimization
@@ -68,7 +68,7 @@ I havev completed serval courses on Statistics, Machine Learning and Optimizatio
   * Textbook: /
   * Contents: 
   
-### Statistics
+### 3 Statistics
 * **Statistical Linear Models**
   * Lecturer: [Prof. Jian Qing Shi](https://www.sustech.edu.cn/en/faculties/shijianqing.html), professor,Department of Statistics and Data Science
   * Textbook:
@@ -84,7 +84,7 @@ I havev completed serval courses on Statistics, Machine Learning and Optimizatio
   * Textbook: /
   * Contents:
    
-### Elementary Mathematics
+### 4 Elementary Mathematics
 * **Real Analysis**
   * Lecturer: [Prof. Zhan Li](https://www.sustech.edu.cn/en/faculties/lizhan.html), assitant professor, Department of Mathematics
   * Textbook:
