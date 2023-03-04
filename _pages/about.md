@@ -19,21 +19,23 @@ redirect_from:
 
 Hello! I am Wang Ma (马旺), a third-year undergraduate in Data Science at [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/en/), under the supervise of [Prof. Chao Wang](https://sites.google.com/view/cwang). I will be in UC Irvine in late March as a visiting student.
 
+
 I am generally interested in Machine Learning, Computer Vision and Optimization. 
+
 
 I havev completed serval courses on Statistics, Machine Learning and Optimization(including a graduate-level one) in SUSTech, lately I've been paying special attention to diffusion models and Text-to-Image models.
 <br/>
 
 # 🔥 News
-- 03/03/2023: I read the paper about [*Composer*](https://arxiv.org/pdf/2302.09778.pdf) 
-- 03/02/2023: I read the paper about [*T2I-Adapters*](https://arxiv.org/abs/2302.08453) 
-- 02/28/2023: I read the paper about [*ControlNet*](https://arxiv.org/abs/2302.05543)
-- 
+- 03/03/2023: I read the paper about [*Composer*](https://arxiv.org/pdf/2302.09778.pdf). 
+- 03/02/2023: I read the paper about [*T2I-Adapters*](https://arxiv.org/abs/2302.08453).
+- 02/28/2023: I read the paper about [*ControlNet*](https://arxiv.org/abs/2302.05543).
+
 # 📖 Experience
 - *2023.03 - 2022.07 (now)*, University of California, Irvine
   - Visiting student 
-- *2020.08 -*  SUSTech, majoring in Data Science and Big Data Technology 
-  - Undergraduate in [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us)
+- *2020.08 - 2024.07* SUSTech
+  - Undergraduate in [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us), majoring in Data Science and Big Data Technology 
   - Student Representative of Teaching Improvement Committee of School of Science (*2022/11 ~ * )
   - Leader of the SUSTech Cube Association (*2021/08 ~ * )
 
