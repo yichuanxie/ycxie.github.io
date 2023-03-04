@@ -23,7 +23,7 @@ Hello! I am Wang Ma (马旺), a third-year undergraduate in Data Science at [Sou
 I am generally interested in Machine Learning, Computer Vision and Optimization. 
 
 
-I havev completed serval courses on Statistics, Machine Learning and Optimization(including a graduate-level one) in SUSTech, lately I've been paying special attention to diffusion models and Text-to-Image models.
+I have completed serval courses on Statistics, Machine Learning and Optimization(including a graduate-level one) in SUSTech, lately I've been paying special attention to diffusion models and Text-to-Image models.
 <br/>
 
 
