@@ -32,12 +32,12 @@ I havev completed serval courses on Statistics, Machine Learning and Optimizatio
 - 02/28/2023: I read the paper about [*ControlNet*](https://arxiv.org/abs/2302.05543).
 
 # 📖 Experience
-- *2023.03 - 2022.07 (now)*, University of California, Irvine
+- *2023.03 - 2023.07*, University of California, Irvine
   - Visiting student 
-- *2020.08 - 2024.07* SUSTech
+- *2020.08 - 2024.07*, SUSTech
   - Undergraduate in [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us), majoring in Data Science and Big Data Technology 
-  - Student Representative of Teaching Improvement Committee of School of Science (*2022/11 ~ * )
-  - Leader of the SUSTech Cube Association (*2021/08 ~ * )
+  - Student Representative of Teaching Improvement Committee of School of Science (*2022/11 ~* )
+  - Leader of the SUSTech Cube Association (*2021/08 ~* )
 
 # 📕 My Courses
 
