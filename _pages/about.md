@@ -17,42 +17,44 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello! I am Wang Ma (马旺), a third-year undergraduate in Data Science at [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/en/), under the supervise of [Prof. Chao Wang](https://sites.google.com/view/cwang). I will be in UC Irvine in late March as a visiting student.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am generally interested in Machine Learning, Computer Vision and Optimization. 
 
+I havev completed serval courses on Statistics, Machine Learning and Optimization(including a graduate-level one) in SUSTech, lately I've been paying special attention to diffusion models and Text-to-Image models.
+<br/>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 03/03/2023: I read the paper about [*Composer*](https://arxiv.org/pdf/2302.09778.pdf) 
+- 03/02/2023: I read the paper about [*T2I-Adapters*](https://arxiv.org/abs/2302.08453) 
+- 02/28/2023: I read the paper about [*ControlNet*](https://arxiv.org/abs/2302.05543)
+- 
+# 📖 Experience
+- *2023.03 - 2022.07 (now)*, University of California, Irvine
+  - Visiting student 
+- *2020.08 -*  SUSTech, majoring in Data Science and Big Data Technology 
+  - Undergraduate in [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us)
+  - Student Representative of Teaching Improvement Committee of School of Science (*2022/11 ~ * )
+  - Leader of the SUSTech Cube Association (*2021/08 ~ * )
 
-# 📝 Publications 
+# My Courses
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# Skills
+**Programming:**
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+* Python (competent), Matlab (intermediate), Java (intermediate), Julia (beginner)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Software:**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+* Texmacs (proficient), Typora (proficient), MS Office (proficient), Latex (skilled)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Language:**
+* Mandarin Chinese (Native), English (Fluent), Shaanxi Dialect Chinese (Native), Japanese (Elementary ~ N5)
+<br/>
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# More about Me
+* Watching **baseball** games, especially the Japan High School Tournament, Koshien. I am a super fan of Ohmi High School, the baseball rising-star school from Shiga Prefecture in Japan, see the highlights of Ohmi High School [here](https://www.bilibili.com/video/BV1bF411a7B4/?spm_id_from=333.999.0.0&vd_source=39c9e2f0249c14d448a63ad2dec02137).
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+* A **speedcuber** who participated in more than 20 official games with Square-1 being my best event. My ranking in Square-1 Event is No.2 in mainland China now (Nov. 2022), and I got 2 **Bronze Medals from the National Championship** in 2017, 2018. You can watch some recordings of my solves in my [Bilibili Channel](https://space.bilibili.com/237775327/video). To see all my results in official games, please take a look at my [WCA page](https://www.worldcubeassociation.org/persons/2016MAWA01).
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+* **Japan Anime**. My favorite short one is ***Spice and Wolf***, whose main actress is *Horo*, my favorite anime character! For long anime, I like ***One Piece*** best, which I began to watch since I was 8 years old, I watched the latest theatrical version *<font color=Red>RED</font>* on the first day it was released in mainland China.
