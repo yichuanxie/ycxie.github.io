@@ -28,6 +28,7 @@ I have completed serval courses on Statistics, Machine Learning and Optimization
 
 
 # 🔥 My Progress
+- 07/03.2023: I read the paper about [*DDPM(Denoising Diffusion Probabilistic Models)*](https://arxiv.org/pdf/2006.11239.pdf).
 - 03/03/2023: I read the paper about [*Composer*](https://arxiv.org/pdf/2302.09778.pdf). 
 - 03/02/2023: I read the paper about [*T2I-Adapters*](https://arxiv.org/abs/2302.08453).
 - 02/28/2023: I read the paper about [*ControlNet*](https://arxiv.org/abs/2302.05543).
@@ -75,7 +76,7 @@ I have completed serval courses on Statistics, Machine Learning and Optimization
   * Contents: Simple and Multiple Linear regression, Quadratic forms, Hypothesis testing and CI estimation, Model Validation and Diagnostics
   
 * **Mathematical Statistics**
-  * Lecturer: [Prof. Guoliang Tian], professor, Department of Statistics and Data Science
+  * Lecturer: [Prof. Guoliang Tian](https://www.researchgate.net/profile/Guo-Liang-Tian), professor, Department of Statistics and Data Science
   * Textbook: Mathematical Statistics by Guoliang Tian
   * Contents: Sampling distributions, MLE, Moment estimation, Bayesian estimation, CI estimation, Hypothesis Testing.
    
