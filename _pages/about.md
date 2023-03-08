@@ -28,7 +28,7 @@ I have completed serval courses on Statistics, Machine Learning and Optimization
 
 
 # 🔥 My Progress
-- 07/03.2023: I read the paper about [*DDPM(Denoising Diffusion Probabilistic Models)*](https://arxiv.org/pdf/2006.11239.pdf).
+- 07/03/2023: I read the paper about [*DDPM(Denoising Diffusion Probabilistic Models)*](https://arxiv.org/pdf/2006.11239.pdf).
 - 03/03/2023: I read the paper about [*Composer*](https://arxiv.org/pdf/2302.09778.pdf). 
 - 03/02/2023: I read the paper about [*T2I-Adapters*](https://arxiv.org/abs/2302.08453).
 - 02/28/2023: I read the paper about [*ControlNet*](https://arxiv.org/abs/2302.05543).
