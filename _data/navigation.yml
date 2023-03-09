@@ -18,5 +18,5 @@ main:
   - title: "More"
     url: "/#-more"
 
-  - title: "Blog"
-    url: "https://wma17.github.io/blog"
+  - title: "CV"
+    url: "https://nbviewer.org/github/wma17/wma17.github.io/blob/main/docs/CV.pdf"
