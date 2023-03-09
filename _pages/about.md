@@ -46,7 +46,7 @@ I have completed serval courses on Statistics, Machine Learning and Optimization
 
 
 # 📕 My Courses
-**This part indicates the courses I have taken so far, attached with the used textbooks and(or) short lists of the contents. You can check my knowledge through this part.** See ***Transcripts [here]***(https://nbviewer.org/github/wma17/wma17.github.io/blob/main/docs/Transcript.pdf).
+**This part indicates the courses I have taken so far, attached with the used textbooks and(or) short lists of the contents. You can check my knowledge through this part.** ***[Transcripts](https://nbviewer.org/github/wma17/wma17.github.io/blob/main/docs/Transcript.pdf)***.
 ## Machine Learning
 * **Statistical Learning**
   * Lecturer: [Prof. Bingyi Jing](https://www.sustech.edu.cn/en/faculties/jingbing-yi.html), chair professor, Department of Statistics and Data Science
