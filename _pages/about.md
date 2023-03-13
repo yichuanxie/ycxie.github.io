@@ -24,6 +24,11 @@ I am generally interested in Machine Learning, Computer Vision and Optimization.
 
 
 I have completed serval courses on Statistics, Machine Learning and Optimization(including a graduate-level one) in SUSTech, lately I've been paying special attention to diffusion models and Text-to-Image models.
+
+
+<br/>
+I devoted my first year in University to practicing Rubik's Cube, while it caused a poor academic performance, it's also the reason why I was able to get [No.2 in Square-1 Cube in mainland China](https://www.worldcubeassociation.org/results/rankings/sq1/average?region=China) in the summer of that year. With this experience of fighting for the things I love, I am confident that I will show this perseverance in the research that I am interested in the future.
+
 <br/>
 
 
@@ -121,14 +126,14 @@ I have completed serval courses on Statistics, Machine Learning and Optimization
 # 💻 Skills
 **Programming:**
 
-* Python (competent), Matlab (intermediate), Java (intermediate), Julia (beginner)
+* Python, Matlab, Java, Julia (beginner)
 
 **Software:**
 
-* Texmacs (proficient), Typora (proficient), MS Office (proficient), Latex (skilled)
+* Texmacs, Typora, MS Office, Latex, Jupyter Notebook, Pycharm, VS code
 
 **Language:**
-* Mandarin Chinese (Native), English (Fluent), Shaanxi Dialect Chinese (Native), Japanese (Elementary)
+* Mandarin Chinese, English, Shaanxi Dialect Chinese, Japanese (Elementary)
 <br/>
 
 
