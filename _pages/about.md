@@ -20,9 +20,11 @@ redirect_from:
 Hello! I am Wang Ma (马旺), a third-year undergraduate in Data Science at [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/en/), under the supervise of [Prof. Chao Wang](https://sites.google.com/view/cwang). I will be in UC Irvine in late March as a visiting student.
 
 
+<br/>
 I am generally interested in Machine Learning, Computer Vision and Optimization. 
 
 
+<br/>
 I have completed serval courses on Statistics, Machine Learning and Optimization(including a graduate-level one) in SUSTech, lately I've been paying special attention to diffusion models and Text-to-Image models.
 
 
