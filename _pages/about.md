@@ -25,16 +25,18 @@ I am generally interested in Machine Learning, Computer Vision and Optimization.
 
 
 <br/>
-I have completed serval courses on Statistics, Machine Learning and Optimization(including a graduate-level one) in SUSTech, lately I've been paying special attention to diffusion models and Text-to-Image models.
+I have completed serval courses on Statistics, Machine Learning and Optimization(including a graduate-level one) in SUSTech, lately I've been paying special attention to AIGC models, especially diffusion models and Text-to-Image models.
 
 
 <br/>
-I devoted my first year in University to practicing Rubik's Cube, while it caused a poor academic performance, it's also the reason why I was able to get [No.2 in Square-1 Cube in mainland China](https://www.worldcubeassociation.org/results/rankings/sq1/average?region=China) in the summer of that year. With this experience of fighting for the things I love, I am confident that I will show this perseverance in the research that I am interested in the future.
+I devoted my first year in University to practicing Rubik's Cube, which made me to be able to get [No.2 in Square-1 Cube in mainland China](https://www.worldcubeassociation.org/results/rankings/sq1/average?region=China) in the summer of that year. With this experience of fighting for the things I love, I am confident that I will show this perseverance in the research that I am interested in the future.
 
 <br/>
 
 
 # 🔥 My Progress
+- 11/03/2023: I read the paper about [*Classfier-free Guidance*](https://arxiv.org/pdf/2207.12598.pdf).
+- 09/03/2023: I read the paper about [*Latent Diffusion Models*](https://arxiv.org/pdf/2112.10752.pdf).
 - 07/03/2023: I read the paper about [*DDPM(Denoising Diffusion Probabilistic Models)*](https://arxiv.org/pdf/2006.11239.pdf).
 - 03/03/2023: I read the paper about [*Composer*](https://arxiv.org/pdf/2302.09778.pdf). 
 - 03/02/2023: I read the paper about [*T2I-Adapters*](https://arxiv.org/abs/2302.08453).
