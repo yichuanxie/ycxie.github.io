@@ -29,7 +29,7 @@ I have completed serval courses on Statistics, Machine Learning and Optimization
 
 
 <br/>
-I devoted my first year in University to practicing Rubik's Cube, which made me to be able to get [No.2 in Square-1 Cube in mainland China](https://www.worldcubeassociation.org/results/rankings/sq1/average?region=China) in the summer of that year. With this experience of fighting for the things I love, I am confident that I will show this perseverance in the research that I am interested in the future.
+I devoted myself to practicing the Rubik's Cube during the first year of University. In May 2021, I improved my personal best record on the Square-1 cube and [ranked No.2 in mainland China](https://www.worldcubeassociation.org/results/rankings/sq1/average?region=China). With this experience of fighting for the things I love, I am confident that I will carry on this perseverance in the research I love in the future.
 
 <br/>
 
