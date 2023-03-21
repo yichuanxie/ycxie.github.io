@@ -148,3 +148,5 @@ I devoted myself to practicing the Rubik's Cube during the first year of Univers
 * I am a **speedcuber** who participated in more than 20 official games with Square-1 being my best event. My ranking in Square-1 Event is No.2 in mainland China now (Mar. 2023), and I got 2 **Bronze Medals from the National Championship** in 2017, 2018. You can watch some recordings of my solves in my [Bilibili Channel](https://space.bilibili.com/237775327/video). To see all my results in official games, please take a look at my [WCA page](https://www.worldcubeassociation.org/persons/2016MAWA01).
 
 * **Japan Anime**. My favorite short one is ***Spice and Wolf***, whose main actress is *Horo*, my favorite anime character! For long anime, I like ***One Piece*** best, which I began to watch since I was 8 years old, I watched the latest theatrical version *<font color=Red>RED</font>* on the first day it was released in mainland China.
+
+* My hometown is Baoji, Shaanxi Province, which is the center of Acient China for the most of the past. I like reading **history** about here, especially the *Pre-Qin History*, the Warring States period of the Hundred Schools of Thought (百家争鸣的战国时代)
