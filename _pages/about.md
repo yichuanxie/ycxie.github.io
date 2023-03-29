@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Wang Ma (马旺), a third-year undergraduate in Data Science at [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/en/), under the supervision of [Prof. Chao Wang](https://sites.google.com/view/cwang). I will be in UC Irvine in late March as a visiting student.
+Hello! I am Wang Ma (马旺), a visting student at UC Irvine now and a third-year undergraduate in Data Science at my home university, [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/en/), under the supervision of [Prof. Chao Wang](https://sites.google.com/view/cwang).
 
 
 <br/>
