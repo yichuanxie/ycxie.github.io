@@ -17,23 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Wang Ma (马旺), a visting student at UC Irvine now and a third-year undergraduate in Data Science at my home university, [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/en/), under the supervision of [Prof. Chao Wang](https://sites.google.com/view/cwang).
+Hello! I am Wang Ma (马旺), a third-year undergraduate in Data Science at [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/en/), under the supervision of [Prof. Chao Wang](https://sites.google.com/view/cwang). During the Spring of 2023, I was an exchange student at UC Irvine and an visitor at [Prof. Hengrui Cai](https://hengruicai.github.io/)'s group.
 
 
 <br/>
-I am generally interested in Machine Learning, Computer Vision(Deep Learning), Optimization and Statistics. 
+
+I am generally interested in Machine Learning, Optimization and Statistics. 
 
 
 <br/>
-I have completed serval courses on Statistics, Machine Learning and Optimization(including a graduate-level one) in SUSTech, lately I've been paying special attention to AIGC models, especially diffusion models and Text-to-Image models.
-
-
-<br/>
-I devoted myself to practicing the Rubik's Cube during the first year of University. In May 2021, I improved my personal best record on the Square-1 cube and [ranked No.2 in mainland China](https://www.worldcubeassociation.org/results/rankings/sq1/average?region=China). With this experience of fighting for the things I love, I am confident that I will carry on this perseverance in the research I love in the future.
+Having accomplished lots of courses in Statistics, Machine Learning, and Optimization at SUSTech, I have recently been particularly attracted by AIGC models, with an explicit focus on diffusion models and Text-to-Image models. In addition, my long career ambition is to make unique contributions to the development of reliable and explainable AI models. I firmly believe that this is my best way to make a meaningful influencet on our society!
 
 <br/>
 
-
+<!--
 # 🔥 My Progress
 - 11/03/2023: I read the paper about [*Classfier-free Guidance*](https://arxiv.org/pdf/2207.12598.pdf).
 - 09/03/2023: I read the paper about [*Latent Diffusion Models*](https://arxiv.org/pdf/2112.10752.pdf).
@@ -42,15 +39,16 @@ I devoted myself to practicing the Rubik's Cube during the first year of Univers
 - 03/02/2023: I read the paper about [*T2I-Adapters*](https://arxiv.org/abs/2302.08453).
 - 02/28/2023: I read the paper about [*ControlNet*](https://arxiv.org/abs/2302.05543).
 <br/>
-
+-->
 
 # 📖 Experience
 - *2023.03 - 2023.07*, University of California, Irvine
-  - Visiting student 
+  - Exchange Student (GPA: 4.0/4.0, [Transcripts](https://nbviewer.org/github/wma17/wma17.github.io/blob/main/docs/Transcripts%20%40UCI.pdf))
+  - Meta Learning and Reinforcement Learning Algorithms. Advisor: [Prof. Hengrui Cai](https://hengruicai.github.io/) 
 - *2020.08 - 2024.07*, SUSTech
-  - Undergraduate in [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us), majoring in Data Science and Big Data Technology 
-  - Student Representative of Teaching Improvement Committee of School of Science (*2022/11 ~* )
-  - Leader of the SUSTech Cube Association (*2021/08 ~* )
+  - Undergraduate in Data Science and Big Data Technology, [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us), 
+  - Advisor: [Prof. Chao Wang](https://sites.google.com/view/cwang)
+  - Student Representative of Teaching Improvement Committee, School of Science (*2022/11 ~* )
 <br/>
 
 
@@ -143,9 +141,9 @@ I devoted myself to practicing the Rubik's Cube during the first year of Univers
 
 
 # ⚾ More
-* **Baseball**. I enjoy watching NPB games and the Japan High School Tournament, Koshien. My favorite NPB team is *<font color=Blue>Hokkaido Nippon Ham Fighters</font>*, where Shohei Otani started his professional career. I am also a super fan of Ohmi High School, the baseball rising-star school from Shiga Prefecture in Japan, see the highlights of Ohmi High School [here](https://www.bilibili.com/video/BV1bF411a7B4/?spm_id_from=333.999.0.0&vd_source=39c9e2f0249c14d448a63ad2dec02137), their blue uniforms shine brighter than the sky in August.
+* **Baseball**. I enjoy watching NPB games and the Japan High School Tournament, Koshien. My favorite NPB team is [*<font color=Blue>Hokkaido Nippon Ham Fighters</font>*](https://www.fighters.co.jp/), where Shohei Ohtani started his professional career in 2013. I am also a super fan of Ohmi High School, the baseball rising-star school from Shiga Prefecture in Japan, see the highlights of Ohmi High School [here](https://www.bilibili.com/video/BV1bF411a7B4/?spm_id_from=333.999.0.0&vd_source=39c9e2f0249c14d448a63ad2dec02137), their blue uniforms shine brighter than the sky in August.
 
-* I am a **speedcuber** who participated in more than 20 official games with Square-1 being my best event. My ranking in Square-1 Event is No.2 in mainland China now (Mar. 2023), and I got 2 **Bronze Medals from the National Championship** in 2017, 2018. You can watch some recordings of my solves in my [Bilibili Channel](https://space.bilibili.com/237775327/video). To see all my results in official games, please take a look at my [WCA page](https://www.worldcubeassociation.org/persons/2016MAWA01).
+* I am a **speedcuber** who participated in more than 20 official games with Square-1 being my best event. My ranking in Square-1 Event is No.2 in mainland China now (Mar. 2023), and I got **2 Bronze Medals in National Championship** in 2017 & 2018, respectively. You can watch some recordings of my solves in my [Bilibili Channel](https://space.bilibili.com/237775327/video). To see all my results in official games, please take a look at my [WCA page](https://www.worldcubeassociation.org/persons/2016MAWA01). I devoted myself to practicing the Rubik’s Cube during my high school time and the first year of University. In May 2021, I improved my personal best record on the Square-1 cube and [ranked No.2 in mainland China](https://www.worldcubeassociation.org/results/rankings/sq1/average?region=China). With this experience of fighting for the things I love, I am confident that I will carry on this perseverance in the research I love in the future!
 
 * **Anime**. My favorite short anime is *Spice and Wolf*, while my preferred long anime is *One Piece*. I have been watching *One Piece* since I was 8 years old, and watched the latest movie version on the first day it released in mainland China. Additionally, I enjoy Chinese Anime such as 超兽武装, 果宝特攻, 洛洛历险记, 星游记 and would be happy to discuss them with you!
 
