@@ -29,7 +29,7 @@ I am generally interested in Machine Learning, Optimization and Statistics.
 Having accomplished lots of courses in Statistics, Machine Learning, and Optimization at SUSTech, I have recently been particularly attracted by AIGC models, with an explicit focus on diffusion models, I am also concerned about potential improvement and robustness of large models. In addition, my long career ambition is to make unique contributions to the development of reliable and explainable AI models. I firmly believe that this will be my best way to make our society better!
 
 <br/>
-I am attending a [Seminar](https://niusj03.github.io/23summer/) on ML organized by [Shengjie Niu](https://niusj03.github.io/) and [Prof. Chao Wang](https://sites.google.com/view/cwang) this summer. I gave talks on [Meta-Learning](https://niusj03.github.io/23summer/docs/topics/week1/) and [Optimizaers](https://niusj03.github.io/23summer/docs/topics/week6/) on the seminar.
+I am participating a [Seminar](https://niusj03.github.io/23summer/) on ML organized by [Shengjie Niu](https://niusj03.github.io/) and [Prof. Chao Wang](https://sites.google.com/view/cwang) this summer. I gave talks on [Meta-Learning](https://niusj03.github.io/23summer/docs/topics/week1/) and [Optimizaers](https://niusj03.github.io/23summer/docs/topics/week6/) on the seminar.
 
 <br/>
 
