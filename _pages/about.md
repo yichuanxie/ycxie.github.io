@@ -26,10 +26,12 @@ I am generally interested in Machine Learning, Optimization and Statistics.
 
 
 <br/>
-Having accomplished lots of courses in Statistics, Machine Learning, and Optimization at SUSTech, I have recently been particularly attracted by AIGC models, with an explicit focus on diffusion models and Text-to-Image models. In addition, my long career ambition is to make unique contributions to the development of reliable and explainable AI models. I firmly believe that this is my best way to make a meaningful influencet on our society!
+Having accomplished lots of courses in Statistics, Machine Learning, and Optimization at SUSTech, I have recently been particularly attracted by AIGC models, with an explicit focus on diffusion models, I am also concerned about potential improvement and robustness of large models. In addition, my long career ambition is to make unique contributions to the development of reliable and explainable AI models. I firmly believe that this will be my best way to make our society better!
 
 <br/>
+I am attending a [Seminar](https://niusj03.github.io/23summer/) on ML organized by [Shengjie Niu](https://niusj03.github.io/) and [Prof. Chao Wang](https://sites.google.com/view/cwang) this summer. I gave talks on [Meta-Learning](https://niusj03.github.io/23summer/docs/topics/week1/) and [Optimizaers](https://niusj03.github.io/23summer/docs/topics/week6/) on the seminar.
 
+<br/>
 <!--
 # 🔥 My Progress
 - 11/03/2023: I read the paper about [*Classfier-free Guidance*](https://arxiv.org/pdf/2207.12598.pdf).
@@ -74,7 +76,7 @@ Having accomplished lots of courses in Statistics, Machine Learning, and Optimiz
 * **Oprational Research and Optimization**
   * Lecturer: [Prof. Chao Wang](https://sites.google.com/view/cwang), assitant professor, Department of Statistics and Data Science
   * Textbook: /
-  * Contents: Simplex method, Duality, Integer programming, Convex optimality, Gradient, Subgradients 
+  * Contents: Simplex method, Duality, Integer programming, Convex optimality, Gradient, Subgradients
   
 ## Statistics
 * **Statistical Linear Models**
