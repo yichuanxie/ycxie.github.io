@@ -3,9 +3,6 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "My Progress"
-    url: "/#-my-progress"
-
   - title: "Experience"
     url: "/#-experience"
 
@@ -19,4 +16,4 @@ main:
     url: "/#-more"
 
   - title: "CV"
-    url: "https://nbviewer.org/github/wma17/wma17.github.io/blob/main/docs/CV03092023.pdf"
+    url: "https://nbviewer.org/github/wma17/wma17.github.io/blob/main/docs/CV.pdf"
