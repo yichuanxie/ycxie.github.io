@@ -49,10 +49,10 @@ I am participating in a [Seminar](https://niusj03.github.io/23summer/) on ML org
 # 📖 Experience
 - *2023.03 - 2023.07*, University of California, Irvine
   - Exchange Student (GPA: 4.0/4.0, [Transcripts](https://nbviewer.org/github/wma17/wma17.github.io/blob/main/docs/Transcripts%20%40UCI.pdf))
-  - Meta Learning and Reinforcement Learning Algorithms. Advisor: [Prof. Hengrui Cai](https://hengruicai.github.io/) 
+  - Meta Learning and Reinforcement Learning Algorithms. Adviser: [Prof. Hengrui Cai](https://hengruicai.github.io/) 
 - *2020.08 - 2024.07*, SUSTech
   - Undergraduate in Data Science and Big Data Technology, [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us), 
-  - Advisor: [Prof. Chao Wang](https://sites.google.com/view/cwang)
+  - Adviser: [Prof. Chao Wang](https://sites.google.com/view/cwang)
   - Student Representative of Teaching Improvement Committee, School of Science (*2022/11 ~* )
 <br/>
 
