@@ -57,18 +57,18 @@ I'm actively seeking a Ph.D. position for Fall 2024. Wishing to contribute to in
 <br/>
 
 # 🧪 Academic Activity
-- *2023.06 - 2023.09* [Seminar: Introduction to and Advances in Self-Supervised Learning](https://niusj03.github.io/23summer/)
+- *2023.06 - 2023.09*， [Seminar:](https://niusj03.github.io/23summer/) Introduction to and Advances in Self-Supervised Learning
   - Organizer: [Prof. Chao Wang](https://sites.google.com/view/cwang) and [Shengjie Niu](https://niusj03.github.io/)
   - I gave talks on [Meta Learning](https://niusj03.github.io/23summer/docs/topics/week1/) and [Optimizers](https://niusj03.github.io/23summer/docs/topics/week6/)
-- *2023.03 - Present* Literature Review: Meta Learning and Reinforcement Learning
+- *2023.03 - Present*, Literature Review: Meta Learning and Reinforcement Learning
   - Adviser: [Prof. Hengrui Cai](https://hengruicai.github.io/)
   - now working on a Survey (coming soon)
-- *2023.02 - Present* Self-study (mainly reading papers)
+- *2023.02 - Present*, Self-study (mainly reading papers)
   - **Stable Diffusion:** ControlNet, Denoising Diffusion Probabilistic Models (DDPM), Latend Diffusion Models(LDM)...
-  - **Meta Learning:**: MAML, Reptile, FO-MAML, ProMAML, iMAML, ANIL, FO-MAML with Moreau Envelope...
+  - **Meta Learning:** MAML, Reptile, FO-MAML, ProMAML, iMAML, ANIL, FO-MAML with Moreau Envelope...
   - **Basic Reinforcement Learning:** Sutton’s Textbook, [Material](https://github.com/zhoubolei/introRL) by [Prof. Bolei Zhou(UCLA)](https://boleizhou.github.io/)
   - **Aligning Language Models**(recently started)**:** [with f-divergence minimization](https://arxiv.org/pdf/2302.08215.pdf)
-- 2022.08 - 2023.03* Image, Inverse Problem and Deep Learning Seminar
+- 2022.08 - 2023.03*, Image, Inverse Problem and Deep Learning Seminar
   - Organizer: [Prof. Chao Wang](https://sites.google.com/view/cwang)
 
 
