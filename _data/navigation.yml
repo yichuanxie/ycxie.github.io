@@ -4,10 +4,10 @@ main:
     url: "/#about-me"
 
   - title: "Experience"
-    url: "/#-experience"
+    url: "/#-education-experience"
 
   - title: "Academic"
-    url: "/#-academic"
+    url: "/#-academic-activity"
 
   - title: "My Courses"
     url: "/#-my-courses"
