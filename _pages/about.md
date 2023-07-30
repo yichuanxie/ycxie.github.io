@@ -29,7 +29,7 @@ I am broadly interested in Machine Learning, Optimization and Statistics.
 Having accomplished lots of courses in Statistics, Machine Learning, and Optimization at SUSTech, I have recently been particularly attracted by AIGC models, with an explicit focus on diffusion models；I am also concerned about potential improvement and robustness of large models. In addition, my long career ambition is to make unique contributions to the development of reliable and explainable AI models. I firmly believe that this will be my best way to make our society better!
 
 <br/>
-I'm actively seeking a Ph.D. position for Fall 2024. Wishing to contribute to innovative research, I'm open to discussing my qualifications and research interests with potential advisors. If you see a fit for your team, please reach out and I am quite eager to have an online meeting with you. Looking forward to connecting!
+I'm actively **seeking a Ph.D. position for Fall 2024**. Wishing to contribute to innovative research, I'm open to discussing my qualifications and research interests with potential advisors. If you see a fit for your team, please reach out and I am quite eager to have an online meeting with you. Looking forward to connecting!
 <br/>
 
 
