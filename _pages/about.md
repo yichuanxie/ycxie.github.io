@@ -68,7 +68,7 @@ I'm actively seeking a Ph.D. position for Fall 2024. Wishing to contribute to in
   - **Meta Learning:** MAML, Reptile, FO-MAML, ProMAML, iMAML, ANIL, FO-MAML with Moreau Envelope...
   - **Basic Reinforcement Learning:** Sutton’s Textbook, [Material](https://github.com/zhoubolei/introRL) by [Prof. Bolei Zhou(UCLA)](https://boleizhou.github.io/)
   - **Aligning Language Models**(recently started)**:** [with f-divergence minimization](https://arxiv.org/pdf/2302.08215.pdf)
-- 2022.08 - 2023.03*, Image, Inverse Problem and Deep Learning Seminar
+- *2022.08 - 2023.03*, Image, Inverse Problem and Deep Learning Seminar
   - Organizer: [Prof. Chao Wang](https://sites.google.com/view/cwang)
 
 
