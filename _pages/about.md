@@ -29,8 +29,7 @@ I am broadly interested in Machine Learning, Optimization and Statistics.
 Having accomplished lots of courses in Statistics, Machine Learning, and Optimization at SUSTech, I have recently been particularly attracted by AIGC models, with an explicit focus on diffusion models；I am also concerned about potential improvement and robustness of large models. In addition, my long career ambition is to make unique contributions to the development of reliable and explainable AI models. I firmly believe that this will be my best way to make our society better!
 
 <br/>
-I am participating in a [Seminar](https://niusj03.github.io/23summer/) on ML organized by [Shengjie Niu](https://niusj03.github.io/) and [Prof. Chao Wang](https://sites.google.com/view/cwang) this summer. I gave talks on [Meta-Learning](https://niusj03.github.io/23summer/docs/topics/week1/) and [Optimizers](https://niusj03.github.io/23summer/docs/topics/week6/) on the seminar, you can check the contents of my talks through these links.
-
+I'm actively seeking a Ph.D. position for Fall 2024. Wishing to contribute to innovative research, I'm open to discussing my qualifications and research interests with potential advisors. If you see a fit for your team, please reach out and I am quite eager to have an online meeting with you. Looking forward to connecting!
 <br/>
 
 
@@ -46,15 +45,32 @@ I am participating in a [Seminar](https://niusj03.github.io/23summer/) on ML org
 <br/>
 -->
 
-# 📖 Experience
+# 📖 Education Experience
 - *2023.03 - 2023.07*, University of California, Irvine
-  - Exchange Student (GPA: 4.0/4.0, [Transcripts](https://nbviewer.org/github/wma17/wma17.github.io/blob/main/docs/Transcripts%20%40UCI.pdf))
+  - Exchange Student (ASAP Program)
+  - Courses: Optimization II, Stochastic Process, Individual Study (GPA: 4.0/4.0, [Transcripts](https://nbviewer.org/github/wma17/wma17.github.io/blob/main/docs/Transcripts%20%40UCI.pdf))
   - Meta Learning and Reinforcement Learning Algorithms. Adviser: [Prof. Hengrui Cai](https://hengruicai.github.io/) 
-- *2020.08 - 2024.07*, SUSTech
+- *2020.08 - 2024.07*(Expected), SUSTech
   - Undergraduate in Data Science and Big Data Technology, [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us), 
   - Adviser: [Prof. Chao Wang](https://sites.google.com/view/cwang)
   - Student Representative of Teaching Improvement Committee, School of Science (*2022/11 ~* )
 <br/>
+
+# 🧪 Academic Activity
+- *2023.06 - 2023.09* [Seminar: Introduction to and Advances in Self-Supervised Learning](https://niusj03.github.io/23summer/)
+  - Organizer: [Prof. Chao Wang](https://sites.google.com/view/cwang) and [Shengjie Niu](https://niusj03.github.io/)
+  - I gave talks on [Meta Learning](https://niusj03.github.io/23summer/docs/topics/week1/) and [Optimizers](https://niusj03.github.io/23summer/docs/topics/week6/)
+- *2023.03 - Present* Literature Review: Meta Learning and Reinforcement Learning
+  - Adviser: [Prof. Hengrui Cai](https://hengruicai.github.io/)
+  - now working on a Survey (coming soon)
+- *2023.02 - Present* Self-study (mainly reading papers)
+  - **Stable Diffusion:** ControlNet, Denoising Diffusion Probabilistic Models (DDPM), Latend Diffusion Models(LDM)...
+  - **Meta Learning:**: MAML, Reptile, FO-MAML, ProMAML, iMAML, ANIL, FO-MAML with Moreau Envelope...
+  - **Basic Reinforcement Learning:** Sutton’s Textbook, [Material](https://github.com/zhoubolei/introRL) by [Prof. Bolei Zhou(UCLA)](https://boleizhou.github.io/)
+  - **Aligning Language Models**(recently started)**:** [with f-divergence minimization](https://arxiv.org/pdf/2302.08215.pdf)
+- 2022.08 - 2023.03* Image, Inverse Problem and Deep Learning Seminar
+  - Organizer: [Prof. Chao Wang](https://sites.google.com/view/cwang)
+
 
 
 # 📕 My Courses
