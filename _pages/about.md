@@ -62,7 +62,6 @@ I'm actively **seeking a Ph.D. position for Fall 2024**. Wishing to contribute t
   - I gave talks on [Meta Learning](https://niusj03.github.io/23summer/docs/topics/week1/) and [Optimizers](https://niusj03.github.io/23summer/docs/topics/week6/)
 - *2023.03 - Present*, Literature Review: Meta Learning and Reinforcement Learning
   - Adviser: [Prof. Hengrui Cai](https://hengruicai.github.io/)
-  - now working on a Survey (coming soon)
 - *2023.02 - Present*, Self-study (mainly reading papers)
   - **Stable Diffusion:** ControlNet, Denoising Diffusion Probabilistic Models (DDPM), Latend Diffusion Models(LDM)...
   - **Meta Learning:** MAML, Reptile, FO-MAML, ProMAML, iMAML, ANIL, FO-MAML with Moreau Envelope...
