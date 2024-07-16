@@ -17,154 +17,28 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Wang Ma (马旺), a third-year undergraduate in Data Science at [Southern University of Science and Technology (SUSTech)](https://sustech.edu.cn/en/), under the supervision of [Prof. Chao Wang](https://sites.google.com/view/cwang). During the Spring of 2023, I was an exchange student at UC Irvine and an visitor at [Prof. Hengrui Cai](https://hengruicai.github.io/)'s group.
+Hello! I am Wang Ma (马旺), an incoming Ph.D student at Rensselaer Polytechnic Institute ([RPI](https://www.rpi.edu/)), fortunate to be advised by [Prof. Qiang Ji](https://sites.ecse.rpi.edu/~qji/). I obtained my B.S. in Data Science from Southern University of Science and Technology ([SUSTech](https://sustech.edu.cn/en/)) in 2024, under the supervision of [Prof. Chao Wang](https://wangcmath.github.io/). During the Spring of 2023, I was an exchange student at UC Irvine and a visitor at [Prof. Hengrui Cai](https://hengruicai.github.io/)'s group.
 
 
 <br/>
 
-I am broadly interested in Machine Learning, Optimization and Statistics. 
+I am broadly interested in Optimization, Probabilistic Machine Learning and Deep Learning Theory. 
 
 
 <br/>
-Having accomplished lots of courses in Statistics, Machine Learning, and Optimization at SUSTech, I have recently been particularly attracted by AIGC models, with an explicit focus on diffusion models；I am also concerned about potential improvement and robustness of large models. In addition, my long career ambition is to make unique contributions to the development of reliable and explainable AI models. I firmly believe that this will be my best way to make our society better!
-
-<br/>
-I'm actively **seeking a Ph.D. position for Fall 2024**. Wishing to contribute to innovative research, I'm open to discussing my qualifications and research interests with potential advisors. If you see a fit for your team, please reach out and I am quite eager to have an online meeting with you. Looking forward to connecting!
-<br/>
 
 
 
-<!--
-# 🔥 My Progress
-- 11/03/2023: I read the paper about [*Classfier-free Guidance*](https://arxiv.org/pdf/2207.12598.pdf).
-- 09/03/2023: I read the paper about [*Latent Diffusion Models*](https://arxiv.org/pdf/2112.10752.pdf).
-- 07/03/2023: I read the paper about [*DDPM(Denoising Diffusion Probabilistic Models)*](https://arxiv.org/pdf/2006.11239.pdf).
-- 03/03/2023: I read the paper about [*Composer*](https://arxiv.org/pdf/2302.09778.pdf). 
-- 03/02/2023: I read the paper about [*T2I-Adapters*](https://arxiv.org/abs/2302.08453).
-- 02/28/2023: I read the paper about [*ControlNet*](https://arxiv.org/abs/2302.05543).
-<br/>
--->
 
 # 📖 Education Experience
-- *2023.03 - 2023.07*, University of California, Irvine
-  - Exchange Student (ASAP Program)
-  - Courses: Optimization II, Stochastic Process, Individual Study (GPA: 4.0/4.0, [Transcripts](https://nbviewer.org/github/wma17/wma17.github.io/blob/main/docs/Transcripts%20%40UCI.pdf))
+- *2024.08 - 2029.06(Expected)*, RPI
+  - Ph.D in Computer & System Engineering
+  - Superviser: [Prof. Qiang Ji](https://sites.ecse.rpi.edu/~qji/)
+- *2023.03 - 2023.07*, University of California, Irvine (GPA: 4.0/4.0, [Transcripts](https://nbviewer.org/github/wma17/wma17.github.io/blob/main/docs/Transcripts%20%40UCI.pdf))
+  - Exchange Student 
   - Meta Learning and Reinforcement Learning Algorithms. Adviser: [Prof. Hengrui Cai](https://hengruicai.github.io/) 
-- *2020.08 - 2024.07*(Expected), SUSTech
+- *2020.08 - 2024.07*, SUSTech (GPA: 3.44/4.0, [Transcripts](https://nbviewer.org/github/wma17/wma17.github.io/blob/main/docs/Transcript.pdf).)
   - Undergraduate in Data Science and Big Data Technology, [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us), 
-  - Adviser: [Prof. Chao Wang](https://sites.google.com/view/cwang)
-  - Student Representative of Teaching Improvement Committee, School of Science (*2022/11 ~* )
+  - Adviser: [Prof. Chao Wang](https://wangcmath.github.io/)
 <br/>
 
-# 🧪 Academic Activity
-- *2023.06 - 2023.09*， [Seminar:](https://niusj03.github.io/23summer/) Introduction to and Advances in Self-Supervised Learning
-  - Organizer: [Prof. Chao Wang](https://sites.google.com/view/cwang) and [Shengjie Niu](https://niusj03.github.io/)
-  - I gave talks on [Meta Learning](https://niusj03.github.io/23summer/docs/topics/week1/) and [Optimizers](https://niusj03.github.io/23summer/docs/topics/week6/)
-- *2023.03 - Present*, Literature Review: Meta Learning and Reinforcement Learning
-  - Adviser: [Prof. Hengrui Cai](https://hengruicai.github.io/)
-- *2023.02 - Present*, Self-study (mainly reading papers)
-  - **Stable Diffusion:** ControlNet, Denoising Diffusion Probabilistic Models (DDPM), Latend Diffusion Models(LDM)...
-  - **Meta Learning:** MAML, Reptile, FO-MAML, ProMAML, iMAML, ANIL, FO-MAML with Moreau Envelope...
-  - **Basic Reinforcement Learning:** Sutton’s Textbook, [Material](https://github.com/zhoubolei/introRL) by [Prof. Bolei Zhou(UCLA)](https://boleizhou.github.io/)
-  - **Aligning Language Models**(recently started)**:** [with f-divergence minimization](https://arxiv.org/pdf/2302.08215.pdf)
-- *2022.08 - 2023.03*, Image, Inverse Problem and Deep Learning Seminar
-  - Organizer: [Prof. Chao Wang](https://sites.google.com/view/cwang)
-
-
-
-# 📕 My Courses
-**This part indicates the courses I have taken so far, attached with the used textbooks and(or) short lists of the contents. You can check my knowledge through this part.** ***[Transcripts](https://nbviewer.org/github/wma17/wma17.github.io/blob/main/docs/Transcript.pdf)***.
-## Machine Learning
-* **Statistical Learning**
-  * Lecturer: [Prof. Bingyi Jing](https://www.sustech.edu.cn/en/faculties/jingbing-yi.html), chair professor, Department of Statistics and Data Science
-  * Textbook: *[Introduction to Statistical Learning with R](https://hastie.su.domains/ISLR2/ISLRv2_website.pdf)*; *[Elements of Statistical Learning](https://hastie.su.domains/Papers/ESLII.pdf)*
-  * Contents: Common ML models in Statistical View, VAE, GAN
-  
-* **Machine Learing and Its Medical Applications**
-  * Lecturer: [Prof. Quanying Liu](https://www.sustech.edu.cn/en/faculties/liuquanying.html), assitant professor, Department of Biomedical Engineering
-  * Textbook: /
-  * Contents: Linear regression, Ridge regression, Logistic regression, SVM(hard/soft margin, kernel method), PCA, LDA, NN, CNN, RNN(LSTM).
- 
-## Optimization
-* **Algorithms for Convex Optimization (*Graduate-level*)**
-  * Lecturer: [Prof. Jin Zhang](https://www.sustech.edu.cn/en/faculties/zhangjin.html), associate profrssor, Department of Mathematics
-  * Textbook: [First-order Methods in Optimization](https://epubs.siam.org/doi/10.1137/1.9781611974997) by Amir Beck
-  * Contents: Convexity, Extended real-valued functions, Subgradients, Conjugate functions, Smothness and Strong Convexity, Proximal operater, Proximal gradient descent
-   
-* **Oprational Research and Optimization**
-  * Lecturer: [Prof. Chao Wang](https://sites.google.com/view/cwang), assitant professor, Department of Statistics and Data Science
-  * Textbook: /
-  * Contents: Simplex method, Duality, Integer programming, Convex optimality, Gradient, Subgradients
-  
-## Statistics
-* **Statistical Linear Models**
-  * Lecturer: [Prof. Jian Qing Shi](https://www.sustech.edu.cn/en/faculties/shijianqing.html), professor,Department of Statistics and Data Science
-  * Textbook: [Linear Models in Statistics](https://www.utstat.toronto.edu/~brunner/books/LinearModelsInStatistics.pdf) by Alvin C. Rencher, G. Bruce Schaalje
-  * Contents: Simple and Multiple Linear regression, Quadratic forms, Hypothesis testing and CI estimation, Model Validation and Diagnostics
-  
-* **Mathematical Statistics**
-  * Lecturer: [Prof. Guoliang Tian](https://www.researchgate.net/profile/Guo-Liang-Tian), professor, Department of Statistics and Data Science
-  * Textbook: Mathematical Statistics by Guoliang Tian
-  * Contents: Sampling distributions, MLE, Moment estimation, Bayesian estimation, CI estimation, Hypothesis Testing.
-   
-* **Probability Theory**
-  * Lecturer: [Prof. Jingrui Sun](https://www.sustech.edu.cn/en/faculties/sunjingrui.html), assitant professor, Department of Mathematics
-  * Textbook: /
-  * Contents: Probability space, Discrete & Continuous Random Variables, Random vectors, Joint distributions, Expectations(generating moment functions), Limiting theory(Weak Law of Large Number, CLE), Conditional expections
-   
-## Elementary Mathematics
-* **Real Analysis**
-  * Lecturer: [Prof. Zhan Li](https://www.sustech.edu.cn/en/faculties/lizhan.html), assitant professor, Department of Mathematics
-  * Textbook: Real Analysis: Measure Theory, Integration, and Hilbert Spaces (Princeton Lectures in Analysis) by Elias M. Stein
-  * Contents: Lesbegue Measure, Lesbegue integral, Differentiation and integration
-    
-* **Numerical Analysis**
-  * Lecturer: [Prof. Jiang Yang](https://www.sustech.edu.cn/en/faculties/yangjiang.html), assicate professor, Department of Mathematics
-  * Textbook: [Numerical Analysis](https://faculty.ksu.edu.sa/sites/default/files/numerical_analysis_9th.pdf), by Richard L. Burden
-  * Contents: Root finding method(for numbers and matrices, linear and nonlinear), Interpolation, Numerical integration/differentiation, IVP(Euler method, RK4), Eigenvalue/eigenvector finding(Power method and inverse power method, QR decomposation, SVD), fitting
-   
-* **Advanced Linear Algebra**
-  * Lecturer: [Prof. Yimao Chen](https://www.sustech.edu.cn/en/faculties/chenyimao.html), assicate professor, Department of Mathematics
-  * Textbook: [Linear Algebra Done Right](https://apuntespme.cl/biblio/AXLER_LINEARALGEBRA.pdf)
-  * Contents: all of the book, more theoretical than the following course
-    
-* **Linear Algebra**
-  * Lecturer: [Prof. Wenlong Zhang](https://www.sustech.edu.cn/en/faculties/zhangwenlong.html), assitant professor, Department of Mathematics
-  * Textbook: Linear Algebra and Its Applications by Gilbert Strang
-  * Contents: all of the book
-   
-* **Discrete Mathematics**
-  * Lecturer: [Yunhao Fu](https://www.sustech.edu.cn/en/faculties/fuyunhao.html), lecturer, Department of Mathematics
-  * Textbook: Discre Mathematics and Its Applications, 9th Editon by Kenneth H. Rosen
-  * Contents: Basic algoritms(complexity, growth of functions), basic number theory(divisibility, primes, congurenes), Induction and Recursion, Counting(permutations and combinations, bionomial coefficients and identities, linear recurrence relations, divide and conquer, Inclusion and Exclusion)
-    
-* **Mathematical Analysis I & II & III**
-  * Lecturer: [Yunhao Fu](https://www.sustech.edu.cn/en/faculties/fuyunhao.html), lecturer, Department of Mathematics
-  * Textbook: 数学分析教程 by 史济怀，常庚哲
-  * Contents: Sets, Functions(single/multi variable, continuity, differentiable, integral), Series(numerical sequeunces, functional sequnences...)
-<br/>
-
-
-# 💻 Skills
-**Programming:**
-
-* Python, Matlab, Java, Julia (beginner)
-
-**Software:**
-
-* Texmacs, Typora, MS Office, Latex, Jupyter Notebook, Pycharm, VS code
-
-**Language:**
-* Mandarin Chinese, English, Shaanxi Dialect Chinese, Japanese (Elementary)
-<br/>
-
-
-
-# ⚾ More
-* **Baseball**. I enjoy watching NPB games and the Japan High School Tournament, Koshien. My favorite NPB team is [*<font color=Blue>Hokkaido Nippon Ham Fighters</font>*](https://www.fighters.co.jp/), where Shohei Ohtani started his professional career in 2013. I am also a super fan of Ohmi High School, the baseball rising-star school from Shiga Prefecture in Japan, see the highlights of Ohmi High School [here](https://www.bilibili.com/video/BV1bF411a7B4/?spm_id_from=333.999.0.0&vd_source=39c9e2f0249c14d448a63ad2dec02137), their blue uniforms shine brighter than the sky in August.
-
-* I am a **speedcuber** who participated in more than 20 official games with Square-1 being my best event. My ranking in Square-1 Event is No.2 in mainland China now (Mar. 2023), and I got **2 Bronze Medals in National Championship** in 2017 & 2018, respectively. You can watch some recordings of my solves in my [Bilibili Channel](https://space.bilibili.com/237775327/video). To see all my results in official games, please take a look at my [WCA page](https://www.worldcubeassociation.org/persons/2016MAWA01). I devoted myself to practicing the Rubik’s Cube during my high school time and the first year of University. In May 2021, I improved my personal best record on the Square-1 cube and [ranked No.2 in mainland China](https://www.worldcubeassociation.org/results/rankings/sq1/average?region=China). With this experience of fighting for the things I love, I am confident that I will carry on this perseverance in the research I love in the future!
-
-* **Anime**. My favorite short anime is *Spice and Wolf*, while my preferred long anime is *One Piece*. I have been watching *One Piece* since I was 8 years old, and watched the latest movie version on the first day it released in mainland China. Additionally, I enjoy Chinese Anime such as 超兽武装, 果宝特攻, 洛洛历险记, 星游记 and would be happy to discuss them with you!
-
-* My hometown is Baoji, Shaanxi Province, which is the center of Acient China for the most of the past. I like reading **history** about here, especially the *Pre-Qin History*, the Warring States period of the Hundred Schools of Thought (百家争鸣的战国时代).
