@@ -3,18 +3,12 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
+  - title: "News"
+    url: "/#-news"
+    
   - title: "Experience"
     url: "/#-education-experience"
-
-  - title: "Academic"
-    url: "/#-academic-activity"
-
-  - title: "My Courses"
-    url: "/#-my-courses"
-
-  - title: "Skills"
-    url: "/#-skills"
-
+    
   - title: "More"
     url: "/#-more"
 
