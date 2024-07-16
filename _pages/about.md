@@ -27,11 +27,14 @@ I am broadly interested in Optimization, Probabilistic Machine Learning and Deep
 
 <br/>
 
+
 # 📰 News
 - **Jul 2024**:  I organized a seminar titled "AI: Optimization, Theory & Responsibility" during the summer of 2024 at SUSTech, under the supervision of [Prof. Chao Wang](https://wangcmath.github.io/). For more details, please visit the [seminar page](https://wma17.github.io/24summer/).
 - **Jul 2024**: I started my journey as a visiting student in [Prof. Chao Wang](https://wangcmath.github.io/)'s group at SUSTech.
 - **Jun 2024**: I graduated from SUSTech! Heartfelt thanks to everyone I met along the way!
 - **Mar 2024**: I accepted the offer from RPI and will begin my Ph.D. under the supervision of [Prof. Qiang Ji](https://sites.ecse.rpi.edu/~qji/).
+
+  
 <br/>
 
 
@@ -47,7 +50,10 @@ I am broadly interested in Optimization, Probabilistic Machine Learning and Deep
 - **2020.08 - 2024.07**, SUSTech (GPA: 3.44/4.0, [Transcripts](https://nbviewer.org/github/wma17/wma17.github.io/blob/main/docs/Transcript.pdf).)
   - Undergraduate in Data Science and Big Data Technology, [Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us), 
   - Thesis Adviser: [Prof. Chao Wang](https://wangcmath.github.io/)
+
+    
 <br/>
+
 
 
 # ⚾ More
