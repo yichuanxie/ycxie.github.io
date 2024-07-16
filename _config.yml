@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wang Ma"
-description              : "maw2020 {at} mail.sustech.edu.cn"
+description              : "wangma2002 {at} gmail.com"
 repository               : "wma17/wma17.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wang Ma"
   avatar           : "images/me.jpg"
-  bio              : "Undergraduate @SUSTech"
-  location         : "Shenzhen, China"
+  bio              : "Ph.D student@RPI"
+  location         : "Troy, NY"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "maw2020@mail.sustech.edu.cn"
+  email            : "maw6@rpi.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
